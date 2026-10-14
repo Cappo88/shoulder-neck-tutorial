@@ -1,0 +1,547 @@
+﻿<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>肩颈劳损自我调理教程 · 配图版</title>
+
+<!-- 微信分享卡片 / SEO -->
+<meta name="description" content="穴位按摩 + 颈部力量训练 + 八段锦核心术式，附动画演示，随时随地缓解肩颈劳损。">
+<meta property="og:type" content="article">
+<meta property="og:title" content="肩颈劳损自我调理教程 · 配图版">
+<meta property="og:description" content="穴位按摩 + 颈部力量训练 + 八段锦核心术式，附动画演示，随时随地缓解肩颈劳损。">
+<meta property="og:image" content="preview.png">
+<meta property="og:image:width" content="600">
+<meta property="og:image:height" content="600">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="肩颈劳损自我调理教程 · 配图版">
+<meta name="twitter:description" content="穴位按摩 + 颈部力量训练 + 八段锦核心术式，附动画演示。">
+<meta name="twitter:image" content="preview.png">
+
+<style>
+  :root {
+    --bg: #f6f8fb;
+    --card: #ffffff;
+    --text: #24303f;
+    --muted: #6b7a90;
+    --line: #e3e9f2;
+    --accent: #2f7cf6;
+    --accent-soft: #eaf2ff;
+    --warn: #e56b6f;
+    --radius: 16px;
+    --shadow: 0 10px 30px rgba(24, 49, 83, 0.08);
+  }
+  * { box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.75;
+  }
+  .hero {
+    background: linear-gradient(135deg, #2f7cf6 0%, #6aa7ff 55%, #9ed0ff 100%);
+    color: #fff;
+    padding: 54px 20px 46px;
+    text-align: center;
+    position: relative;
+  }
+  .hero h1 {
+    margin: 0 0 10px;
+    font-size: clamp(26px, 5vw, 42px);
+    letter-spacing: 1px;
+  }
+  .hero p {
+    margin: 0;
+    opacity: 0.95;
+    font-size: clamp(14px, 2.5vw, 17px);
+  }
+  .layout {
+    max-width: 1080px;
+    margin: 0 auto;
+    padding: 24px 16px 60px;
+  }
+  .toc {
+    background: var(--card);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    padding: 18px 20px;
+    margin-bottom: 22px;
+    border: 1px solid var(--line);
+  }
+  .toc h2 { margin: 0 0 10px; font-size: 18px; }
+  .toc a {
+    display: inline-block;
+    margin: 4px 10px 4px 0;
+    color: var(--accent);
+    text-decoration: none;
+    background: var(--accent-soft);
+    padding: 5px 12px;
+    border-radius: 999px;
+    font-size: 14px;
+  }
+  .toc a:hover { background: #dbe9ff; }
+  section {
+    background: var(--card);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    border: 1px solid var(--line);
+    padding: 22px 20px;
+    margin-bottom: 20px;
+  }
+  h2 {
+    margin: 0 0 16px;
+    font-size: 22px;
+    color: #1f2d3d;
+    border-left: 5px solid var(--accent);
+    padding-left: 12px;
+  }
+  h3 { margin: 24px 0 10px; font-size: 18px; color: #1f2d3d; }
+  h4 { margin: 16px 0 8px; font-size: 16px; color: #2f7cf6; }
+  p { margin: 8px 0; }
+  ul, ol { padding-left: 1.2em; margin: 8px 0; }
+  li { margin: 6px 0; }
+  .tag {
+    display: inline-block;
+    background: var(--accent-soft);
+    color: var(--accent);
+    border-radius: 999px;
+    padding: 2px 10px;
+    font-size: 12px;
+    margin-right: 6px;
+    vertical-align: middle;
+  }
+  .card {
+    background: #fbfcfe;
+    border: 1px solid var(--line);
+    border-radius: 14px;
+    padding: 16px;
+    margin: 14px 0;
+  }
+  .card h4 { margin-top: 0; }
+  .figure-box {
+    position: relative;
+    background: #f5f7fa;
+    border-radius: 12px;
+    padding: 10px;
+    text-align: center;
+    margin: 16px 0;
+    border: 1px solid #e8eef7;
+  }
+  .figure-box img {
+    max-width: 100%;
+    border-radius: 8px;
+    display: block;
+    margin: 0 auto;
+  }
+  .figure-box .img-fallback {
+    display: none;
+    padding: 36px 16px;
+    color: #8a97a8;
+    border: 2px dashed #c9d6e8;
+    border-radius: 8px;
+    font-size: 14px;
+  }
+  .figure-box.no-img img { display: none; }
+  .figure-box.no-img .img-fallback { display: block; }
+  .figure-box figcaption {
+    margin-top: 8px;
+    font-size: 0.9em;
+    color: var(--muted);
+  }
+  .svg-animation {
+    background: #fbfcfe;
+    border: 1px solid var(--line);
+    border-radius: 14px;
+    padding: 12px;
+    text-align: center;
+    margin: 16px 0;
+  }
+  .svg-animation svg {
+    width: min(300px, 100%);
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+  .caption {
+    color: var(--muted);
+    font-size: 0.9em;
+    margin-top: 8px;
+  }
+  .note {
+    background: #fff8e8;
+    border-left: 4px solid #f0b429;
+    padding: 12px 14px;
+    border-radius: 8px;
+    color: #6b5b2a;
+    margin: 14px 0;
+  }
+  .danger {
+    background: #fff0f0;
+    border-left: 4px solid var(--warn);
+    padding: 12px 14px;
+    border-radius: 8px;
+    color: #8a3a3a;
+    margin: 14px 0;
+  }
+  .back-top {
+    position: fixed;
+    right: 18px;
+    bottom: 18px;
+    background: var(--accent);
+    color: #fff;
+    border: none;
+    border-radius: 999px;
+    padding: 10px 14px;
+    font-size: 14px;
+    cursor: pointer;
+    box-shadow: 0 8px 20px rgba(47, 124, 246, 0.3);
+    text-decoration: none;
+    z-index: 10;
+  }
+  .print-btn {
+    position: fixed;
+    right: 18px;
+    top: 18px;
+    background: #ffffff;
+    color: var(--accent);
+    border: 1px solid #bcd6ff;
+    border-radius: 999px;
+    padding: 9px 16px;
+    font-size: 14px;
+    cursor: pointer;
+    box-shadow: 0 8px 20px rgba(47, 124, 246, 0.12);
+    z-index: 10;
+    transition: all 0.2s ease;
+  }
+  .print-btn:hover {
+    background: var(--accent);
+    color: #fff;
+    border-color: var(--accent);
+  }
+  @media (max-width: 640px) {
+    section { padding: 18px 14px; }
+    h2 { font-size: 20px; }
+    .print-btn { top: 12px; right: 12px; padding: 7px 12px; font-size: 13px; }
+  }
+
+  /* ===== 打印 / 保存 PDF ===== */
+  @media print {
+    body { background: #fff; color: #000; }
+    .hero {
+      background: #fff !important;
+      color: #000 !important;
+      padding: 10px 0 20px;
+      border-bottom: 2px solid #2f7cf6;
+    }
+    .hero h1 { color: #1f2d3d; }
+    .hero p { color: #444; }
+    .toc, .back-top, .print-btn { display: none !important; }
+    .layout { padding: 0 4mm; max-width: 100%; }
+    section {
+      box-shadow: none;
+      border: 1px solid #ddd;
+      page-break-inside: avoid;
+      break-inside: avoid;
+      margin-bottom: 12px;
+      padding: 14px;
+    }
+    .card, .figure-box, .svg-animation { page-break-inside: avoid; break-inside: avoid; }
+    /* 打印时暂停动画，保留中间姿态 */
+    .svg-animation svg * {
+      animation: none !important;
+    }
+    a { color: #000; text-decoration: none; }
+  }
+</style>
+</head>
+<body>
+
+<!-- 打印按钮 -->
+<button class="print-btn" onclick="window.print()" title="打印或保存为 PDF">🖨️ 打印 / 保存 PDF</button>
+
+<header class="hero">
+  <h1>肩颈劳损自我调理教程</h1>
+  <p>穴位按摩 · 颈部力量训练 · 八段锦核心术式</p>
+</header>
+
+<main class="layout">
+
+  <nav class="toc">
+    <h2>目录</h2>
+    <a href="#massage">一、穴位自我按摩</a>
+    <a href="#strength">二、颈部静态力量训练</a>
+    <a href="#baduanjin">三、八段锦核心术式</a>
+    <a href="#notes">四、练习注意事项</a>
+    <a href="#more">拓展穴位按摩教程</a>
+  </nav>
+
+  <!-- 一、穴位自我按摩 -->
+  <section id="massage">
+    <h2>一、穴位自我按摩</h2>
+
+    <div class="card">
+      <h4>风池穴</h4>
+      <p><span class="tag">定位</span>在后颈部，后脑勺下方两侧的凹陷处，耳后高骨与颈椎之间的缝隙内。</p>
+      <p><span class="tag">手法</span>坐姿或站姿，头部微前倾。双手拇指分别按压两侧穴位，其余四指扶住头部固定。力度由轻到重，以酸胀但不刺痛为宜，按压 3 秒后松开，重复 30 次；也可用拇指与食指揉捏，每次 1—2 分钟。</p>
+      <p><span class="tag">作用</span>疏通颈部经络，缓解肌肉痉挛，对长期低头导致的僵硬、牵拉痛效果明显，也能改善头部供血。</p>
+    </div>
+
+    <figure class="figure-box">
+      <img src="fig1-fengchi.png" alt="风池穴定位示意图" onerror="this.parentElement.classList.add('no-img')">
+      <div class="img-fallback">图1 风池穴定位示意图<br><small>把原图保存为 fig1-fengchi.png</small></div>
+      <figcaption>图1 风池穴定位示意图</figcaption>
+    </figure>
+
+    <div class="card">
+      <h4>肩井穴</h4>
+      <p><span class="tag">定位</span>在肩部最高处，大椎穴（低头时颈后凸起的骨头）与肩峰连线的中点。</p>
+      <p><span class="tag">手法</span></p>
+      <ul>
+        <li><strong>按揉法：</strong>用对侧手的食指、中指并拢按压穴位，力度适中，按压后停留 2 秒再松开，单侧 30 次后换边。</li>
+        <li><strong>拿肩井：</strong>拇指放在肩井穴，其余四指放在对侧，前后对应用力，做向上提捏的动作，反复操作 10 次即可。</li>
+      </ul>
+      <p><span class="tag">作用</span>放松斜方肌，改善肩部紧张与颈椎活动受限，尤其适合久坐办公族在工作间隙快速缓解僵硬。</p>
+    </div>
+
+    <figure class="figure-box">
+      <img src="fig2-jianjing.png" alt="肩井穴定位示意图" onerror="this.parentElement.classList.add('no-img')">
+      <div class="img-fallback">图2 肩井穴定位示意图<br><small>把原图保存为 fig2-jianjing.png</small></div>
+      <figcaption>图2 肩井穴定位示意图</figcaption>
+    </figure>
+
+    <h3>按摩通用提示</h3>
+    <ul>
+      <li>每个穴位每次按摩一两分钟，每天可进行 2—3 次，工作间隙与睡前都是适宜时间。</li>
+      <li>按摩前可先缓慢转头、抬头低头各数次，让颈部肌肉先放松。</li>
+    </ul>
+  </section>
+
+  <!-- 二、颈部静态力量训练 -->
+  <section id="strength">
+    <h2>二、颈部静态力量训练</h2>
+
+    <div class="card">
+      <h4>“与项争力”</h4>
+      <p><span class="tag">准备</span>直立或坐位，两脚分开与肩同宽。双手十指交叉，掌面置于颈椎后部正中（适合颈椎生理弧度正常、减小或反弓者）或后枕部（适合生理弧度增大者）。</p>
+      <p><span class="tag">动作</span>头颈用力向后仰，双手同时向前托起对抗，头与手均不产生位移，即纯粹的静止用力。维持 3—4 秒，放松休息 3—4 秒为 1 次。</p>
+      <p><span class="tag">组数</span>每组做 20 次，每日 3—5 组即可。</p>
+      <p><span class="tag">要点</span>这是典型的静力性练习，力量对抗时头部不移动，重点在于颈部肌肉的持续收缩，而非活动幅度。</p>
+    </div>
+
+    <figure class="figure-box">
+      <img src="fig3-xiangzheng.png" alt="“与项争力”动作示范图" onerror="this.parentElement.classList.add('no-img')">
+      <div class="img-fallback">图3 “与项争力”动作示范图<br><small>把原图保存为 fig3-xiangzheng.png</small></div>
+      <figcaption>图3 “与项争力”动作示范图</figcaption>
+    </figure>
+
+    <div class="card">
+      <h4>收下巴训练</h4>
+      <p><strong>靠墙版本：</strong>背靠墙站立，脚后跟、臀部、肩胛骨和后脑勺都轻贴墙面。缓慢做一个“双下巴”动作——想象用下巴去够脖子后的皮肤，而不是低头或抬头。保持 5 秒后放松，重复 10 次。</p>
+      <p><strong>坐姿版本：</strong>身体坐直或站直，双眼平视前方，缓慢将下巴水平向后收，感觉颈部后侧有拉伸感，保持 5 秒后放松，重复 10 次。</p>
+      <p><strong>核心要点：</strong>动作方向是水平向后，伴有头部微微向上延伸的感觉，而非单纯向后压。动作要轻，重点在于激活颈部深层屈肌，而不是让颈后浅层肌肉发力。</p>
+    </div>
+
+    <figure class="figure-box">
+      <img src="fig4-shouxiaba.png" alt="收下巴训练示范" onerror="this.parentElement.classList.add('no-img')">
+      <div class="img-fallback">图4 收下巴训练示范<br><small>把原图保存为 fig4-shouxiaba.png</small></div>
+      <figcaption>图4 收下巴训练示范</figcaption>
+    </figure>
+  </section>
+
+  <!-- 三、八段锦核心术式 -->
+  <section id="baduanjin">
+    <h2>三、八段锦核心术式</h2>
+
+    <!-- 两手托天理三焦 -->
+    <div class="card">
+      <h4>“两手托天理三焦”</h4>
+      <p>这一式通过充分的纵向拉伸，直接牵拉肩臂与颈项部的经络。</p>
+      <p><span class="tag">预备</span>直立，双脚与肩同宽，双臂自然下垂，目视前方。</p>
+      <p><span class="tag">动作步骤</span></p>
+      <ol>
+        <li>双臂弯曲，掌心向上于胸前，指尖相对。</li>
+        <li>双手十指交叉，翻掌使掌心向上，尽量向上托举，同时抬头目视手背，脚跟随之离地，配合深吸气。</li>
+        <li>还原成预备姿势，同时深呼气。</li>
+      </ol>
+      <p><span class="tag">对肩颈的作用</span>上托至极时，脊柱得到充分伸展，肩臂与十指被撑拉，能拉开从胸走手的手三阴经与从手走头的三阳经，对肩颈部的经络气血有直接的疏通作用。</p>
+    </div>
+
+    <div class="figure-box">
+ <img src="tuotian.png" alt="两手托天理三焦动作演示" style="width:100%; max-width:400px; border-radius:8px; display: block; margin: 0 auto;">
+  <figcaption>图5 “两手托天理三焦”动作演示（来源：网络）</figcaption>
+</div>
+
+    <!-- 五劳七伤往后瞧 -->
+    <div class="card">
+      <h4>“五劳七伤往后瞧”</h4>
+      <p>这一式是八段锦中对颈肩锻炼效果最直接的招式之一。</p>
+      <p><span class="tag">预备</span>双腿直立，比肩略宽，两臂自然下垂，目视前方。</p>
+      <p><span class="tag">动作步骤</span></p>
+      <ol>
+        <li>保持上体不动，头颈带动脊柱缓缓向左（或右）后方拧转，双目尽量看向斜后方。</li>
+        <li>同时两手掌向后翻，配合转头动作，身体不要跟着转，只转动头颈。</li>
+        <li>保持 3—5 秒，然后轻轻还原，双掌扶于胸前。</li>
+      </ol>
+      <p><span class="tag">呼吸配合</span>转头后瞧时配合吸气，还原时配合呼气，全身放松。左右交替，重复 4—8 次。</p>
+      <p><span class="tag">对肩颈的作用</span>通过头颈的拧转，能有效牵拉滑利肩颈部关节，拉伸胸廓，增强脊柱的灵活性，对颈椎的旋转功能有直接锻炼价值。</p>
+    </div>
+    <div class="figure-box">
+  <img src="wulao.gif" alt="五劳七伤往后瞧动图演示">
+  <figcaption>图6 “五劳七伤往后瞧”动作演示</figcaption>
+</div>
+
+  <!-- 四、练习注意事项 -->
+  <section id="notes">
+    <h2>四、练习注意事项</h2>
+
+    <h3>力度与安全</h3>
+    <div class="danger">
+      <ul>
+        <li>穴位按摩以“酸胀不痛”为原则，避免暴力按压。</li>
+        <li>孕妇禁用肩井穴，以免引发宫缩。</li>
+        <li>若颈部疼痛伴随手臂麻木、无力、行走不稳，或存在严重骨质疏松、颈椎骨折、局部皮肤感染等情况，不宜自行按摩或练习，应及时就医排查。</li>
+      </ul>
+    </div>
+
+    <h3>日常配合</h3>
+    <ul>
+      <li>每工作 30—40 分钟，起身做一次收下巴动作和扩胸运动；睡前可用热毛巾敷颈部后方 10—15 分钟，帮助放松肌肉。</li>
+      <li>注意颈部保暖，避免空调、风扇直吹颈后。</li>
+      <li>使用手机或电脑时尽量保持屏幕与视线平行，减少低头角度。</li>
+    </ul>
+
+    <h3>练习顺序建议</h3>
+    <p>先做穴位按摩放松浅层肌肉，再进行静态力量训练激活颈部深层稳定肌群，最后以八段锦的伸展动作收尾，整体效果会更完整。</p>
+  </section>
+
+  <!-- 拓展穴位 -->
+  <section id="more">
+    <h2>拓展穴位按摩教程</h2>
+
+    <div class="card">
+      <h4>肩中俞穴</h4>
+      <p><span class="tag">定位</span>在背部，第 7 颈椎棘突下旁开 2 寸（约两横指宽）。</p>
+      <p><span class="tag">手法</span>用一手绕过胸前置于对侧肩上，食指和中指并拢，按揉该穴位，以局部有明显酸痛感为宜。</p>
+      <p><span class="tag">作用</span>处于肩脊中部，能舒筋活络、通经止痛，对颈项僵硬、肩背疼痛有缓解作用。</p>
+    </div>
+
+    <figure class="figure-box">
+      <img src="fig7-jianzhongshu.png" alt="肩中俞穴定位示意图" onerror="this.parentElement.classList.add('no-img')">
+      <div class="img-fallback">图7 肩中俞穴定位示意图<br><small>把原图保存为 fig7-jianzhongshu.png</small></div>
+      <figcaption>图7 肩中俞穴定位示意图</figcaption>
+    </figure>
+
+    <div class="card">
+      <h4>条口穴</h4>
+      <p><span class="tag">定位</span>在小腿外侧，续鼻穴（外膝眼）下 8 寸，续鼻与解溪的连线上。</p>
+      <p><span class="tag">手法</span>用拇指指腹或指关节按压，力度轻柔有度，每次按揉约 3 分钟即可。可在点按的同时，缓慢活动颈项（左右转头、抬头低头），效果更佳。</p>
+      <p><span class="tag">作用</span>这是一个“上病下取”的远端穴位，能调整全身气血运行，对肩部发沉、肩周炎、颈项活动受限有辅助改善作用。</p>
+    </div>
+
+    <figure class="figure-box">
+      <img src="fig8-tiaokou.png" alt="条口穴定位示意图" onerror="this.parentElement.classList.add('no-img')">
+      <div class="img-fallback">图8 条口穴定位示意图<br><small>把原图保存为 fig8-tiaokou.png</small></div>
+      <figcaption>图8 条口穴定位示意图</figcaption>
+    </figure>
+  </section>
+
+</main>
+
+<a class="back-top" href="#">回到顶部</a>
+  <!-- 拓展：完整八段锦 -->
+  <section id="baduanjin-full">
+    <h2>拓展：完整八段锦</h2>
+    <p>八段锦共有八式，动作柔和连绵，适合在办公室或家中练习。以下为完整八式，可单独练习，也可按顺序全套练习。</p>
+
+    <!-- 第一式：两手托天理三焦 -->
+    <div class="card">
+      <h4>第一式：两手托天理三焦</h4>
+      <p><span class="tag">动作</span>双手十指交叉，掌心向上托举至头顶，抬头目视手背，脚跟离地，配合深吸气。</p>
+      <p><span class="tag">对肩颈的作用</span>纵向拉伸躯干与颈椎，缓解肩颈僵硬，疏通三焦气机。</p>
+    </div>
+    <figure class="figure-box">
+      <img src="81.gif" alt="两手托天理三焦动图演示" onerror="this.parentElement.classList.add('no-img')">
+      <figcaption>第一式 “两手托天理三焦”动作演示</figcaption>
+    </figure>
+
+    <!-- 第二式：左右开弓似射雕 -->
+    <div class="card">
+      <h4>第二式：左右开弓似射雕</h4>
+      <p><span class="tag">动作</span>马步下蹲，双手在胸前交叉，一手向侧方推出，一手拉回，如拉弓射雕状，左右交替。</p>
+      <p><span class="tag">对肩颈的作用</span>展肩扩胸，矫正圆背、肩内收等不良姿势，缓解颈椎及周围肌肉疲劳。</p>
+    </div>
+    <figure class="figure-box">
+      <img src="82.gif" alt="左右开弓似射雕动图演示" onerror="this.parentElement.classList.add('no-img')">
+      <figcaption>第二式 “左右开弓似射雕”动作演示</figcaption>
+    </figure>
+
+    <!-- 第三式：调理脾胃须单举 -->
+    <div class="card">
+      <h4>第三式：调理脾胃须单举</h4>
+      <p><span class="tag">动作</span>一手向上高举，掌心向上；另一手向下按，掌心向下，上下对拉，充分伸展身体两侧。</p>
+      <p><span class="tag">对肩颈的作用</span>单边举手加上翻掌抖腕，舒缓肩颈僵硬，紧实肩部斜方肌和三角肌。</p>
+    </div>
+    <figure class="figure-box">
+      <img src="83.gif" alt="调理脾胃须单举动图演示" onerror="this.parentElement.classList.add('no-img')">
+      <figcaption>第三式 “调理脾胃须单举”动作演示</figcaption>
+    </figure>
+
+    <!-- 第四式：五劳七伤往后瞧 -->
+    <div class="card">
+      <h4>第四式：五劳七伤往后瞧</h4>
+      <p><span class="tag">动作</span>头颈带动脊柱缓缓向左（或右）后方拧转，双目尽量看向斜后方，身体保持不动。</p>
+      <p><span class="tag">对肩颈的作用</span>增强颈部深浅肌群收缩力，增加颈部运动幅度，刺激大椎穴。</p>
+    </div>
+    <figure class="figure-box">
+      <img src="84.gif" alt="五劳七伤往后瞧动图演示" onerror="this.parentElement.classList.add('no-img')">
+      <figcaption>第四式 “五劳七伤往后瞧”动作演示</figcaption>
+    </figure>
+
+    <!-- 第五式：摇头摆尾去心火 -->
+    <div class="card">
+      <h4>第五式：摇头摆尾去心火</h4>
+      <p><span class="tag">动作</span>马步站立，上体前俯，头与尾闾同时向一侧摆动，使颈部与尾闾对拉拔长。</p>
+      <p><span class="tag">对肩颈的作用</span>增强颈关节灵活性与肌肉力量，刺激督脉，安神去火。</p>
+    </div>
+    <figure class="figure-box">
+      <img src="85.gif" alt="摇头摆尾去心火动图演示" onerror="this.parentElement.classList.add('no-img')">
+      <figcaption>第五式 “摇头摆尾去心火”动作演示</figcaption>
+    </figure>
+
+    <!-- 第六式：两手攀足固肾腰 -->
+    <div class="card">
+      <h4>第六式：两手攀足固肾腰</h4>
+      <p><span class="tag">动作</span>两臂上举，然后俯身，双手沿腿部后侧向下攀足，再缓缓起身。</p>
+      <p><span class="tag">对肩颈的作用</span>双肩关节完成上举、前屈、后伸的全范围活动，缓解肩关节酸痛不适。</p>
+    </div>
+    <figure class="figure-box">
+      <img src="86.gif" alt="两手攀足固肾腰动图演示" onerror="this.parentElement.classList.add('no-img')">
+      <figcaption>第六式 “两手攀足固肾腰”动作演示</figcaption>
+    </figure>
+
+    <!-- 第七式：攒拳怒目增气力 -->
+    <div class="card">
+      <h4>第七式：攒拳怒目增气力</h4>
+      <p><span class="tag">动作</span>马步站立，双拳紧握，交替向前用力冲出，同时怒目圆睁。</p>
+      <p><span class="tag">对肩颈的作用</span>锻炼上肢与手部肌肉力量，通过怒目提振精神，增强全身气力。</p>
+    </div>
+    <figure class="figure-box">
+      <img src="87.gif" alt="攒拳怒目增气力动图演示" onerror="this.parentElement.classList.add('no-img')">
+      <figcaption>第七式 “攒拳怒目增气力”动作演示</figcaption>
+    </figure>
+
+    <!-- 第八式：背后七颠百病消 -->
+    <div class="card">
+      <h4>第八式：背后七颠百病消</h4>
+      <p><span class="tag">动作</span>两脚并拢，脚跟提起，然后轻轻落下，震动全身，重复七次。</p>
+      <p><span class="tag">对肩颈的作用</span>震动脊柱与督脉，缓解肩颈僵硬，调和全身气血，改善睡眠。</p>
+    </div>
+    <figure class="figure-box">
+      <img src="88.gif" alt="背后七颠百病消动图演示" onerror="this.parentElement.classList.add('no-img')">
+      <figcaption>第八式 “背后七颠百病消”动作演示</figcaption>
+    </figure>
+  </section>
+</body>
+</html>
